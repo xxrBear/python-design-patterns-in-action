@@ -6,6 +6,9 @@
 # ----------------------------------------------------------------------------------------------------
 
 
+import threading
+
+
 class Singleton:
     """最简单的单例模式"""
 
@@ -19,7 +22,16 @@ class Singleton:
             return cls._instance
 
 
-if __name__ == "__main__":
-    a = Singleton()
-    b = Singleton()
-    print(a is b)
+class MultiThreadSingleton:
+    """多线程版本"""
+
+    _instance = None
+    _lock = threading.Lock()
+
+    def __new__(cls):
+        if cls._instance is None:
+            with cls._lock:
+                cls._instance = super().__new__(cls)
+                return cls._instance
+        else:
+            return cls._instance
