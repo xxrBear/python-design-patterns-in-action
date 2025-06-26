@@ -67,5 +67,5 @@ print(sql)
 
 ## 示例
 
-- [建造者模式代码示例](examples/creational/builder/builder.py)
-- [建造者模式测试用例](tests/creational/builder/)
+- [建造者模式代码示例](builder.py)
+- [建造者模式测试用例](../../../tests/creational/builder/test_builder.py)
