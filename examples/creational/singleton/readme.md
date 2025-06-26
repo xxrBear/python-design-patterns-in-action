@@ -71,5 +71,5 @@ from xxx import s
 
 ## 示例
 
-- [单例模式代码示例](examples/creational/singleton/singleton/singleton.py)
-- [单例模式测试用例](tests/creational/singleton/test_signleton.py/)
+- [单例模式代码示例](singleton.py)
+- [单例模式测试用例](../../../tests/creational/singleton/test_singleton.py/)
