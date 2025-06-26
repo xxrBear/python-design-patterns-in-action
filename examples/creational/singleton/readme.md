@@ -68,3 +68,8 @@ from xxx import s
 ```
 
 在 Python 项目中，若没有特殊需求（如懒加载或多进程安全），优先使用模块级单例来简化设计，既符合 Python 语言风格，又降低了维护成本。
+
+## 示例
+
+- [单例模式代码示例](examples/creational/singleton/singleton/singleton.py)
+- [单例模式测试用例](tests/creational/singleton/test_signleton.py/)

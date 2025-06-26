@@ -133,3 +133,10 @@ payment.pay(100)
 ```
 
 这样便能解决简单工厂模式下，增加新子类，需要修改工厂方法的缺陷。
+
+## 示例
+
+- [工厂方法模式代码示例](examples/creational/factory/abstract_factory.py)
+- [工厂方法模式测试用例](tests/creational/factory/test_abstract_factory.py/)
+- [简单工厂方法模式代码示例](examples/creational/factory/sample_factory.py)
+- [简单工厂方法模式测试用例](tests/creational/factory/test_sample_factory.py/)
