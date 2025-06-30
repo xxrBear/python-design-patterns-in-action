@@ -14,6 +14,7 @@
 | [单例模式](examples/creational/singleton)   |                    |                    |
 | [工厂方法模式](examples/creational/factory) |                    |                    |
 | [建造者模式](examples/creational/builder)   |                    |                    |
+| [原型模式](examples/creational/prototype)   |                    |                    |
 
 ## ⚠️ 危险区
 
