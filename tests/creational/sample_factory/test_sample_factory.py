@@ -1,6 +1,6 @@
 import unittest
 
-from examples.creational.factory.sample_factory import AnimalFactory, Cat, Dog
+from examples.creational.sample_factory.sample_factory import AnimalFactory, Cat, Dog
 
 
 class TestAnimalFactory(unittest.TestCase):

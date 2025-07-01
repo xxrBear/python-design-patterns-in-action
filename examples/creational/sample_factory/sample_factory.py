@@ -1,9 +1,4 @@
-from abc import ABC, abstractmethod
-
-
-# 抽象类
-class Animal(ABC):
-    @abstractmethod
+class Animal:
     def speak(self):
         pass
 
