@@ -15,8 +15,9 @@
 | [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/)  |                    |
 | [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) |                    |
 | [抽象工厂模式](examples/creational/abstract_factory) | [组合模式](examples/structural/composite)   |                    |
-| [建造者模式](examples/creational/builder)            |                                             |                    |
-| [原型模式](examples/creational/prototype)            |                                             |                    |
+| [建造者模式](examples/creational/builder)            | [桥接模式](examples/structural/bridge)      |                    |
+| [原型模式](examples/creational/prototype)            | [外观模式](examples/structural/facade)      |                    |
+|                                                      | [享元模式](examples/structural/flyweight)   |                    |
 
 ## ⚠️ 危险区
 
