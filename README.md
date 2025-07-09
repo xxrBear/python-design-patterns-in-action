@@ -9,14 +9,14 @@
 
 ## 设计模式的类型
 
-| **创建型设计模式**                                   | **结构型设计模式**                         | **行为型设计模式** |
-| :--------------------------------------------------- | :----------------------------------------- | :----------------- |
-| [单例模式](examples/creational/singleton)            | [代理模式](examples/structural/proxy/)     |                    |
-| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/) |                    |
-| [工厂方法模式](examples/creational/factory)          |                                            |                    |
-| [抽象工厂模式](examples/creational/abstract_factory) |                                            |                    |
-| [建造者模式](examples/creational/builder)            |                                            |                    |
-| [原型模式](examples/creational/prototype)            |                                            |                    |
+| **创建型设计模式**                                   | **结构型设计模式**                          | **行为型设计模式** |
+| :--------------------------------------------------- | :------------------------------------------ | :----------------- |
+| [单例模式](examples/creational/singleton)            | [代理模式](examples/structural/proxy/)      |                    |
+| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/)  |                    |
+| [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) |                    |
+| [抽象工厂模式](examples/creational/abstract_factory) |                                             |                    |
+| [建造者模式](examples/creational/builder)            |                                             |                    |
+| [原型模式](examples/creational/prototype)            |                                             |                    |
 
 ## ⚠️ 危险区
 
