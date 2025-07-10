@@ -12,8 +12,8 @@
 | **创建型设计模式**                                   | **结构型设计模式**                          | **行为型设计模式**                                   |
 | :--------------------------------------------------- | :------------------------------------------ | :--------------------------------------------------- |
 | [单例模式](examples/creational/singleton)            | [代理模式](examples/structural/proxy/)      | [模板方法模式](examples/structural/template_method/) |
-| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/)  |                                                      |
-| [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) |                                                      |
+| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/)  | [策略模式](examples/structural/strategy/)            |
+| [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) | [观察者模式](examples/structural/observers/)         |
 | [抽象工厂模式](examples/creational/abstract_factory) | [组合模式](examples/structural/composite)   |                                                      |
 | [建造者模式](examples/creational/builder)            | [桥接模式](examples/structural/bridge)      |                                                      |
 | [原型模式](examples/creational/prototype)            | [外观模式](examples/structural/facade)      |                                                      |
