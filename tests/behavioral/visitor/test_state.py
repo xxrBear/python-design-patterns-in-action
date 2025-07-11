@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import MagicMock
 
-from examples.behavioral.vistor.state import Engineer, Manager
+from examples.behavioral.visitor.state import Engineer, Manager
 
 
 class TestVisitorPatternElements(unittest.TestCase):
