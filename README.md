@@ -23,7 +23,7 @@
 |                                                      |                                             | [解释器模式](examples/behavioral/interpreter)             |
 |                                                      |                                             | [责任链模式](examples/behavioral/chain_of_responsibility) |
 
-## ⚠️ 危险区
+## 危险区
 
 
 设计模式的优点很多，但是很容易被滥用从而取得完全相反的结果。
@@ -37,3 +37,10 @@
 总结：
 
 > 合理的使用设计模式，避免为了使用设计模式而使用设计模式，增加不必要的复杂度
+
+## 测试
+
+**运行所有测试**
+```shell
+python -m unittest discover tests
+```
