@@ -25,7 +25,7 @@ class User(Colleague):
         self.name = name
 
     def send(self, message: str):
-        print(f"{self.name} 发送消息：{message}")
+        # print(f"{self.name} 发送消息：{message}")
         self.mediator.send(message, self)
 
     def receive(self, message: str):
