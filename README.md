@@ -9,15 +9,19 @@
 
 ## 设计模式的类型
 
-| **创建型设计模式**                                   | **结构型设计模式**                          | **行为型设计模式**                                   |
-| :--------------------------------------------------- | :------------------------------------------ | :--------------------------------------------------- |
-| [单例模式](examples/creational/singleton)            | [代理模式](examples/structural/proxy/)      | [模板方法模式](examples/structural/template_method/) |
-| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter/)  | [策略模式](examples/structural/strategy/)            |
-| [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) | [观察者模式](examples/structural/observers/)         |
-| [抽象工厂模式](examples/creational/abstract_factory) | [组合模式](examples/structural/composite)   | [责任链模式](examples/structural/chain_of_responsibility/)|
-| [建造者模式](examples/creational/builder)            | [桥接模式](examples/structural/bridge)      |                                                      |
-| [原型模式](examples/creational/prototype)            | [外观模式](examples/structural/facade)      |                                                      |
-|                                                      | [享元模式](examples/structural/flyweight)   |                                                      |
+| **创建型设计模式**                                   | **结构型设计模式**                          | **行为型设计模式**                                        |
+| ---------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------- |
+| [单例模式](examples/creational/singleton)            | [代理模式](examples/structural/proxy)       | [模板方法模式](examples/behavioral/template_method)       |
+| [简单工厂模式](examples/creational/sample_factory)   | [适配器模式](examples/structural/adapter)   | [策略模式](examples/behavioral/strategy)                  |
+| [工厂方法模式](examples/creational/factory)          | [装饰器模式](examples/structural/decorator) | [观察者模式](examples/behavioral/observers)               |
+| [抽象工厂模式](examples/creational/abstract_factory) | [组合模式](examples/structural/composite)   | [访问者模式](examples/behavioral/visitor)                 |
+| [建造者模式](examples/creational/builder)            | [桥接模式](examples/structural/bridge)      | [命令模式](examples/behavioral/command)                   |
+| [原型模式](examples/creational/prototype)            | [外观模式](examples/structural/facade)      | [中介者模式](examples/behavioral/mediator)                |
+|                                                      | [享元模式](examples/structural/flyweight)   | [备忘录模式](examples/behavioral/memento)                 |
+|                                                      |                                             | [状态模式](examples/behavioral/state)                     |
+|                                                      |                                             | [迭代器模式](examples/behavioral/iterator)                |
+|                                                      |                                             | [解释器模式](examples/behavioral/interpreter)             |
+|                                                      |                                             | [责任链模式](examples/behavioral/chain_of_responsibility) |
 
 ## ⚠️ 危险区
 
